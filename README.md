@@ -1,4 +1,4 @@
-#  spring_boot_customer_base (back-end)
+#  spring_boot_security_base (back-end)
 ### Используемые технологии:
 
 * Java 1.8<br>
